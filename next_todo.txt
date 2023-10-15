@@ -1,0 +1,11 @@
+1. 完善refs的结构
+  cat-file函数
+  tree的编写->commit对象的编写->log函数的编写
+        |
+        -->ls-tree的编写
+
+
+
+
+
+        

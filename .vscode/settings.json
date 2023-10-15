@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "type_traits": "c",
+        "sha.h": "c",
+        "zlib.h": "c",
+        "repository.h": "c",
+        "object.h": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c",
+        "commit_object.h": "c",
+        "core_function.h": "c",
+        "commen_fun.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
